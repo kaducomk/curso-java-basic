@@ -1,4 +1,9 @@
+/**
+ * AnalisarCandidato
+ */
+public class AnalisarCandidato {
 
-public class analisarCandidato {
-
+    public static void main(String[] args) {
+        
+    }
 }
